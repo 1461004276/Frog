@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2b8fc3b11110e27469764c850c0fc1c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BGMClip: {fileID: 8300000, guid: 2cebe5ef59f447d4d803665e3ecf1a2f, type: 3}
+  - jumpClip: {fileID: 8300000, guid: 5efa41faebe12634db9ffad659cb294c, type: 3}
+  - longJumpClip: {fileID: 8300000, guid: 6b49c26b106d92a4d977d8454d734c3c, type: 3}
+  - deadClip: {instanceID: 0}
+  - BGMSource: {instanceID: 0}
+  - Fx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
